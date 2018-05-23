@@ -1,0 +1,22 @@
+{
+  "crawl": false,
+  "customTests": [],
+  "dest": "/js/modernizr-output.js",
+  "tests": [],
+  "options": [
+    "addTest",
+    "atRule",
+    "hasEvent",
+    "mq",
+    "prefixed",
+    "prefixedCSS",
+    "prefixedCSSValue",
+    "testAllProps",
+    "testProp",
+    "testStyles",
+    "html5printshiv",
+    "html5shiv",
+    "setClasses"
+  ],
+  "uglify": true
+}

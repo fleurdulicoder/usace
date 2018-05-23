@@ -1,0 +1,19 @@
+{
+  "minify": true,
+  "options": [
+    "addTest",
+    "atRule",
+    "hasEvent",
+    "mq",
+    "prefixed",
+    "prefixedCSS",
+    "prefixedCSSValue",
+    "testAllProps",
+    "testProp",
+    "testStyles",
+    "html5printshiv",
+    "html5shiv",
+    "setClasses"
+  ],
+  "feature-detects": []
+}
