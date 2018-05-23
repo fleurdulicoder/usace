@@ -13,6 +13,7 @@
   "author": "Ella Musina",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
     "gulp-util": "^3.0.8"
   }
 }
